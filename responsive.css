@@ -1,0 +1,53 @@
+@media screen and (min-width: 1115px) {
+    main {
+        margin: 0;
+    }
+
+    .container {
+        grid-template-areas: 'one one two five'
+            'three four four five';
+        /* grid-template-columns: auto auto; */
+        width: 1113px;
+        gap: 18px;
+    }
+
+    .one {
+        width: 562px;
+    }
+
+    .two {
+        width: 261px;
+    }
+
+    .three {
+        width: 273px;
+    }
+
+    .four {
+        width: 550px;
+    }
+
+    .five {
+        width: 260px;
+    }
+
+    .one h3 {
+        width: 91%;
+    }
+
+    .two h3 {
+        width: 86%;
+    }
+
+    .three h3 {
+        width: 84%;
+    }
+
+    .four h3 {
+        width: 91%;
+    }
+
+    .five h3 {
+        width: 100%;
+    }
+}
