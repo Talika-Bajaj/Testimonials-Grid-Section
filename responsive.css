@@ -31,23 +31,23 @@
         width: 260px;
     }
 
-    .one h3 {
-        width: 91%;
+    .one .heading {
+        width: 81%;
     }
 
-    .two h3 {
+    .two .heading {
         width: 86%;
     }
 
-    .three h3 {
-        width: 84%;
+    .three .heading {
+        width: 73%;
     }
 
-    .four h3 {
+    .four .heading {
         width: 91%;
     }
 
-    .five h3 {
+    .five .heading {
         width: 100%;
     }
 }
